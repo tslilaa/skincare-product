@@ -289,11 +289,6 @@ footer .credit a {
     background-color: #fff;
     width: 30rem;
     height: 100vh;
-    transition: 0.3s;
-  }
-
-  .navbar .navbar-nav.active {
-    right: 0;
   }
 
   .navbar .navbar-nav a {
