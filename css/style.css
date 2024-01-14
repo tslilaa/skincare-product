@@ -42,10 +42,6 @@ body {
   font-style: italic;
 }
 
-.navbar .navbar-logo span {
-  color: var(--primary);
-}
-
 .navbar .navbar-nav a {
   color: #fff;
   display: inline-block;
